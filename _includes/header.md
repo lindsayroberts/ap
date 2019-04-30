@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP CS Principles]({{ "/" | relative_url }})
 
 Wootton High School\\
 2019-2020
