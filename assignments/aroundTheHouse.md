@@ -34,19 +34,19 @@ To obtain a passing grade in this course, all students must ordinarily submit al
 ## OK Computer
 If not familiar with what computers are, take a quick look at a more modern spin on them here:
 
-<iframe src="https://youtu.be/WAxH0YHdTuA"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WAxH0YHdTuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Although they’ve also been known to be a bit smaller than that:
 
-<iframe src="https://www.youtube.com/watch?v=ltTpwOsnBwI"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ltTpwOsnBwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 But perhaps there are some that do not even use electricity?
 
-<iframe src="https://youtu.be/GcDshWmhF4A"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GcDshWmhF4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Or perhaps may not even have moving parts?
 
-<iframe src="https://youtu.be/tI0GqYJha1Q"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tI0GqYJha1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you had some preconceived notions about what a computer is, odds are they were challenged somewhat by watching the videos above (particularly the last two!), and that’s okay! In fact, you may find that some folks quickly agree that everything shown above is a computer, and some won’t. Try speaking with family and friends about it and see if it doesn’t spark an interesting discussion.
 
