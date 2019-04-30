@@ -2,8 +2,8 @@
 title: false
 ---
 
-# Hello, world!
+# Welcome to AP CS Principles!
 
-This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework.
+This is AP Computer Science Principles, your introduction to computer science and programming. This course will prepare you for future programming courses, as well as the AP College Board exam.
 
 <iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
