@@ -3,6 +3,7 @@ permalink: pretty
 plugins:
   - jekyll-remote-theme
 
-remote_theme: cs50/jekyll-theme-cs50
+#remote_theme: cs50/jekyll-theme-cs50
+theme: cayman
 
-title: CS50 AP
+title: AP CSP
