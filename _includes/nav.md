@@ -4,12 +4,12 @@
 * [CS50 Reference](https://reference.cs50.net/)
 
 ***
-
+<!--
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
 
 ***
-
+-->
 * [Period 2]({{ "/periods/2" | relative_url }})
 * [Period 4]({{ "/periods/4" | relative_url }})
 * [Period 7]({{ "/periods/7" | relative_url }})
