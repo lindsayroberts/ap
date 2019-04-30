@@ -9,14 +9,14 @@
     *-What is the result of that processing?
 2. Submit your essay.
 ---
----
+
 ## Academic Honesty
 
 This course’s philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course’s material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
 
 The essence of all work that you submit to this course must be your own. Collaboration on problems is not permitted (unless explicitly stated otherwise) except to the extent that you may ask classmates and others for help so long as that help does not reduce to another doing your work for you. Generally speaking, when asking for help, you may show your code or writing to others, but you may not view theirs, so long as you and they respect this policy’s other constraints. Collaboration on quizzes and tests is not permitted at all. Collaboration on the final project for College Board is permitted to the extent prescribed by its specification.
 ---
----
+
 ## Assessment
 Your work on this writing problem will be evaluated along three axes primarily.
 
@@ -28,7 +28,7 @@ Your work on this writing problem will be evaluated along three axes primarily.
 
 To obtain a passing grade in this course, all students must ordinarily submit all assigned problems unless granted an exception in writing by the instructor.
 ---
----
+
 ## OK Computer
 If not familiar with what computers are, take a quick look at a more modern spin on them here:
 
@@ -58,7 +58,7 @@ Pull up the definition of the word "computer" a few places online (or in a handy
 
 For purposes of this course, we define a computer as a device that accepts input and processes it in some way to produce an output automatically. Based on that definition, you might see how all four of the devices shown above may be considered computers. You also still may be scratching your head and thinking "Well, wait a minute…​". If so, good! You’re already beginning the critical-thinking process.
 ---
----
+
 ## Writing? I thought I was here to code!
 Rest assured, there’ll be plenty of time and plenty of opportunity to dive into programming this school year. In fact, the vast majority of the problems you’re assigned in this course will require you to program in one or more of the programming languages we’ll learn about, such as Scratch, Python, or JavaScript. But occasionally, and a bit more frequently at the very beginning of the course, you’ll also be asked to complete some "writing problems" like this. Why? There are two important reasons.
 
@@ -76,7 +76,7 @@ Second however, and perhaps more importantly, is that this course aims to educat
 
 In some contexts you’ll be relaying your newfound knowledge to those with absolutely no background in the subject matter, and to address those individuals you’ll need the ability to describe things clearly and, importantly, correctly. In others, you’ll be addressing your peers or more technically-oriented audiences, and instead of having to explain a new technology, you will have to persuade that audience about something. Being able to analyze a technology, compare it to others, and point out its relative flaws is an important rhetorical tool to do just that. Organizing your thoughts and communicating them on paper is one of the best ways (particularly if you otherwise might experience stage fright!) to practice this skill.
 ---
----
+
 ## OK… Computer?
 Have a look around your home. See any computers? Even if you don’t have laptops or desktops where you live, odds are you have many more computers in your home than you think. Perhaps you have a smartphone? Maybe you have a flatscreen television or a video game system?
 
@@ -94,7 +94,7 @@ Open a text editor and create a file called ‘house’ (be sure that the file e
 
 Conduct a little bit of research (formal or informal), and if you suspect others may be skeptical of your assertion that the device you chose is a computer, write persuasively so as to do your best to convince such individuals that you aren’t crazy and that you know what you’re talking about.
 ---
----
+
 ##How to Submit
 Step 1 of 4
 Go to GitHub and create an account if you don’t already have one. Then head over to <CS50.me>, and log in with your GitHub account credentials, and click Authorize application.
