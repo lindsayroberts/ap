@@ -1,4 +1,4 @@
-# Unit 0
+# Introduction to Computing
 
 * [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
 * [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
@@ -8,7 +8,7 @@
 * [Algorithms]({{"/units/unit0/algorithms" | relative_url }})
 
 
-# Unit 1
+# Introduction to Programming
 
 * [Pseudocode]({{"/units/unit1/pseudocode" | relative_url }})
 * [Scratch]({{"/units/unit1/scratch" | relative_url }})
@@ -19,7 +19,7 @@
 * [Boolean Expressions and Conditionals]({{"/units/unit1/boolean_expressions_and_conditionals" | relative_url }})
 * [Loops]({{"/units/unit1/loops" | relative_url }})
 
-# Unit 2
+# Programming Topics I
 
 * [Compiling]({{"/units/unit2/compiling" | relative_url }})
 * [Functions]({{"/units/unit2/functions" | relative_url }})
@@ -30,7 +30,7 @@
 * [Typecasting]({{"/units/unit2/typecasting" | relative_url }})
 * [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
 
-# Unit 3
+# Algorithms
 
 * [Linear Search]({{"/units/unit3/linear_search" | relative_url }})
 * [Bubble Sort]({{"/units/unit3/bubble_sort" | relative_url }})
@@ -40,7 +40,7 @@
 * [Computational Complexity]({{"/units/unit3/computational_complexity" | relative_url }})
 * [Unsolvable Problems]({{"/units/unit3/unsolvable_problems" | relative_url }})
 * [Models and Simulations]({{"/units/unit3/models_and_simulations" | relative_url }})
-
+<!--
 # Unit 4
 
 * [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
@@ -72,8 +72,8 @@
 * [Huffman Coding]({{"/units/unitB/huffman_coding" | relative_url }})
 * [Scalability]({{"/units/unitB/scalability" | relative_url }})
 * [Collaboration]({{"/units/unitB/collaboration" | relative_url }})
-
-# Unit 5
+-->
+# How the Internet Works
 
 * [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
 * [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }})
@@ -85,7 +85,7 @@
 * [Cybersecurity]({{"/units/unit5/cybersecurity" | relative_url }})
 * [HTML]({{"/units/unit5/html" | relative_url }})
 * [CSS]({{"/units/unit5/css" | relative_url }})
-
+<!--
 # Unit 6
 
 * [Python]({{"/units/unit6/python" | relative_url }})
@@ -96,3 +96,4 @@
 * [Ajax]({{"/units/unit6/ajax" | relative_url }})
 * [Artificial Intelligence and Machine Learning]({{"/units/unit6/artificial_intelligence_and_machine_learning" | relative_url }})
 * [Virtual and Augmented Reality]({{"/units/unit6/virtual_and_augmented_reality" | relative_url }})
+-->
