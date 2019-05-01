@@ -19,4 +19,4 @@ While all memory is stored as some number of bits, these bits are not all stored
   Carey Holzman on [HDD vs SSD - What is the difference?](https://www.youtube.com/embed/O4ykrNhI5xk)
 
 - ### Problem
-  - [Tech Spotlight](http://docs.cs50.net/2018/ap/problems/tech/tech.html)
+  - [Tech Spotlight]({{"/assignments/tech" | relative_url}})
