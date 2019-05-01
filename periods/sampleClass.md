@@ -40,9 +40,9 @@
 * [Computational Complexity]({{"/units/unit3/computational_complexity" | relative_url }})
 * [Unsolvable Problems]({{"/units/unit3/unsolvable_problems" | relative_url }})
 * [Models and Simulations]({{"/units/unit3/models_and_simulations" | relative_url }})
+
 <!--
 # Unit 4
-
 * [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
 * [ncurses]({{"/units/unit4/ncurses" | relative_url }})
 * [Structures and Encapsulation]({{"/units/unit4/structures_and_encapsulation" | relative_url }})
@@ -52,9 +52,7 @@
 * [File I/O]({{"/units/unit4/file_io" | relative_url }})
 * [Images]({{"/units/unit4/images" | relative_url }})
 * [Version Control and Collaboration]({{"/units/unit4/version_control_and_collaboration" | relative_url }})
-
 # Unit A
-
 * [Stacks]({{"/units/unitA/stacks" | relative_url }})
 * [Queues]({{"/units/unitA/queues" | relative_url }})
 * [Pointers]({{"/units/unitA/pointers" | relative_url }})
@@ -64,15 +62,14 @@
 * [Tries]({{"/units/unitA/tries" | relative_url }})
 * [Linked Lists]({{"/units/unitA/linked_lists" | relative_url }})
 * [Hash Tables]({{"/units/unitA/hash_tables" | relative_url }})
-
 # Unit B
-
 * [Abstraction and API]({{"/units/unitB/abstraction_and_api" | relative_url }})
 * [Data Compression]({{"/units/unitB/data_compression" | relative_url }})
 * [Huffman Coding]({{"/units/unitB/huffman_coding" | relative_url }})
 * [Scalability]({{"/units/unitB/scalability" | relative_url }})
 * [Collaboration]({{"/units/unitB/collaboration" | relative_url }})
 -->
+
 # How the Internet Works
 
 * [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
@@ -85,9 +82,9 @@
 * [Cybersecurity]({{"/units/unit5/cybersecurity" | relative_url }})
 * [HTML]({{"/units/unit5/html" | relative_url }})
 * [CSS]({{"/units/unit5/css" | relative_url }})
+
 <!--
 # Unit 6
-
 * [Python]({{"/units/unit6/python" | relative_url }})
 * [Python for Web Programming]({{"/units/unit6/python_for_web_programming" | relative_url }})
 * [SQL]({{"/units/unit6/sql" | relative_url }})
