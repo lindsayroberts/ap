@@ -78,11 +78,13 @@ you might see a computer scientist instead use what’s called pseudocode—shor
 
 Here’s one possible way to translate that algorithm into pseudocode:
 
-<code>1   look out the window
-2   if it is raining outside
-3      put on your rain boots
-4      put on your raincoat
-5   go outside</code>
+<code>
+ 1   look out the window
+ 2   if it is raining outside
+ 3   put on your rain boots
+ 4   put on your raincoat
+ 5   go outside
+</code>
 
 We’ve numbered the lines for a reason you’ll see momentarily. But notice how regardless of whether it’s raining the algorithm instructs you to go outside. It just has a special extra set of things you do before stepping outside if it happens to be raining. We call something like "if it is raining outside" a condition. Some algorithms also have steps that get repeated many times over, like this one:
 
@@ -92,7 +94,8 @@ have your friend stop guessing.</code>
 
 We call such a repetition a loop, because you’ll keep going around and around the same steps until some condition (your friend guessing the right number) lets you stop. Here’s one of many possible ways to express the guessing game in pseudocode:
 
-<div style="background-color:grey;color:black;padding:20px;"> 1   secretly pick your favorite number from 1 to 50
+<code> 
+ 1   secretly pick your favorite number from 1 to 50
  2   have your friend guess your favorite number
  3   if your friend guesses a lower number
  4      tell your friend to guess a higher number
@@ -101,7 +104,8 @@ We call such a repetition a loop, because you’ll keep going around and around 
  7      tell your friend to guess a lower number
  8      go back to line 2
  9   else
-10      tell your friend to stop guessing</div>
+ 10     tell your friend to stop guessing
+ </code>
 
 Notice here that until your friend guesses the correct number, they will go back to line 2 of the algorithm, which prompts them to make another guess. Only when they guess correctly can they proceed to line 10 and break out of the loop.
 
