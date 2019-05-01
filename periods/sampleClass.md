@@ -1,4 +1,6 @@
-# Introduction to Computing
+# Course Outline
+
+## Introduction to Computing
 
 * [Computers and Computing]({{"/units/unit0/computers_and_computing" | relative_url }})
 * [How Computers Work]({{"/units/unit0/how_computers_work" | relative_url }})
@@ -8,7 +10,7 @@
 * [Algorithms]({{"/units/unit0/algorithms" | relative_url }})
 
 
-# Introduction to Programming
+## Introduction to Programming
 
 * [Pseudocode]({{"/units/unit1/pseudocode" | relative_url }})
 * [Scratch]({{"/units/unit1/scratch" | relative_url }})
@@ -19,7 +21,7 @@
 * [Boolean Expressions and Conditionals]({{"/units/unit1/boolean_expressions_and_conditionals" | relative_url }})
 * [Loops]({{"/units/unit1/loops" | relative_url }})
 
-# More Programming
+## More Programming
 
 * [Compiling]({{"/units/unit2/compiling" | relative_url }})
 * [Functions]({{"/units/unit2/functions" | relative_url }})
@@ -68,7 +70,7 @@
 * [Collaboration]({{"/units/unitB/collaboration" | relative_url }})
 -->
 
-# How the Internet Works
+## How the Internet Works
 
 * [Internet Basics]({{"/units/unit5/internet_basics" | relative_url }})
 * [IP Addresses]({{"/units/unit5/ip_addresses" | relative_url }})
