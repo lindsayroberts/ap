@@ -79,10 +79,10 @@ you might see a computer scientist instead use what’s called pseudocode—shor
 Here’s one possible way to translate that algorithm into pseudocode:
 
 <code>
- 1   look out the window
- 2   if it is raining outside
- 3   put on your rain boots
- 4   put on your raincoat
+ 1   look out the window /n
+ 2   if it is raining outside /n
+ 3   put on your rain boots /n
+ 4   put on your raincoat /n
  5   go outside
 </code>
 
