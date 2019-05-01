@@ -19,7 +19,7 @@
 * [Boolean Expressions and Conditionals]({{"/units/unit1/boolean_expressions_and_conditionals" | relative_url }})
 * [Loops]({{"/units/unit1/loops" | relative_url }})
 
-# Programming Topics I
+# More Programming
 
 * [Compiling]({{"/units/unit2/compiling" | relative_url }})
 * [Functions]({{"/units/unit2/functions" | relative_url }})
@@ -30,8 +30,8 @@
 * [Typecasting]({{"/units/unit2/typecasting" | relative_url }})
 * [Bugs and Debugging]({{"/units/unit2/bugs_and_debugging" | relative_url }})
 
+<!--
 # Algorithms
-
 * [Linear Search]({{"/units/unit3/linear_search" | relative_url }})
 * [Bubble Sort]({{"/units/unit3/bubble_sort" | relative_url }})
 * [Selection Sort]({{"/units/unit3/selection_sort" | relative_url }})
@@ -40,8 +40,6 @@
 * [Computational Complexity]({{"/units/unit3/computational_complexity" | relative_url }})
 * [Unsolvable Problems]({{"/units/unit3/unsolvable_problems" | relative_url }})
 * [Models and Simulations]({{"/units/unit3/models_and_simulations" | relative_url }})
-
-<!--
 # Unit 4
 * [Principles of Good Design]({{"/units/unit4/principles_of_good_design" | relative_url }})
 * [ncurses]({{"/units/unit4/ncurses" | relative_url }})
