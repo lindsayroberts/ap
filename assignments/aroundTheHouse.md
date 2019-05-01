@@ -94,15 +94,4 @@ Open a text editor and create a file called ‘house’ (be sure that the file e
 
 Conduct a little bit of research (formal or informal), and if you suspect others may be skeptical of your assertion that the device you chose is a computer, write persuasively so as to do your best to convince such individuals that you aren’t crazy and that you know what you’re talking about.
 
-## How to Submit
-Step 1 of 4
-Go to GitHub and create an account if you don’t already have one. Then head over to <CS50.me>, and log in with your GitHub account credentials, and click Authorize application.
-
-Step 2 of 4
-Go to https://github.com/submit50/USERNAME, substituting USERNAME in the URL with your own GitHub username. On the left side of the screen, click on "Branch: master". In the field that says "Find or create a branch…", type cs50/2018/ap/house and click "Create branch".
-
-Step 3 of 4
-Click the button that says "Upload files". Drag your house.(doc, docx, pdf, txt) file into the box that says "Drag files here".
-
-Step 4 of 4
-Click the green "Commit changes" button and you’re done!
+## Submit your paper on MyMCPS
