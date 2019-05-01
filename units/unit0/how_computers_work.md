@@ -4,7 +4,8 @@ We use computers on a regular basis for nearly everything. Whether its laptops, 
 
 The resources in this section come from a course called Computer Science E-1a, Understanding Technology, offered at Harvard's Extension School.
 
-- ### Lecture - [Watch on the CS50 Video Player](https://video.cs50.net/cscie1a/2017/fall/lectures/hardware)
+- ### Lecture 
+  - [Watch on the CS50 Video Player](https://video.cs50.net/cscie1a/2017/fall/lectures/hardware)
 
 <!--
   - [Watch on Youtube](https://www.youtube.com/embed/6mbFO0ZLMW8)
