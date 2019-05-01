@@ -18,5 +18,5 @@ While all memory is stored as some number of bits, these bits are not all stored
   - While the demonstration of going shopping for some new computers is a little older in this video, you should still go through it yourself, drawing some comparisons by visiting the Apple, Lenovo, Dell, or other computer company's sales page. Here's
   Carey Holzman on [HDD vs SSD - What is the difference?](https://www.youtube.com/embed/O4ykrNhI5xk)
 
-- ### Problem
+- ### Homework - submit on MyMCPS
   - [Tech Spotlight]({{"/assignments/tech" | relative_url}})
