@@ -79,10 +79,10 @@ you might see a computer scientist instead use what’s called pseudocode—shor
 Here’s one possible way to translate that algorithm into pseudocode:
 
 <code>
- 1   look out the window /n
- 2   if it is raining outside /n
- 3   put on your rain boots /n
- 4   put on your raincoat /n
+ 1   look out the window <br /> 
+ 2   if it is raining outside <br /> 
+ 3   put on your rain boots <br /> 
+ 4   put on your raincoat <br /> 
  5   go outside
 </code>
 
@@ -95,15 +95,15 @@ have your friend stop guessing.</code>
 We call such a repetition a loop, because you’ll keep going around and around the same steps until some condition (your friend guessing the right number) lets you stop. Here’s one of many possible ways to express the guessing game in pseudocode:
 
 <code> 
- 1   secretly pick your favorite number from 1 to 50
- 2   have your friend guess your favorite number
- 3   if your friend guesses a lower number
- 4      tell your friend to guess a higher number
- 5      go back to line 2
- 6   else if your friend guesses a higher number
- 7      tell your friend to guess a lower number
- 8      go back to line 2
- 9   else
+ 1   secretly pick your favorite number from 1 to 50<br /> 
+ 2   have your friend guess your favorite number<br /> 
+ 3   if your friend guesses a lower number<br /> 
+ 4      tell your friend to guess a higher number<br /> 
+ 5      go back to line 2<br /> 
+ 6   else if your friend guesses a higher number<br /> 
+ 7      tell your friend to guess a lower number<br /> 
+ 8      go back to line 2<br /> 
+ 9   else<br /> 
  10     tell your friend to stop guessing
  </code>
 
