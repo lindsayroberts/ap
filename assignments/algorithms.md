@@ -92,7 +92,7 @@ have your friend stop guessing.</code>
 
 We call such a repetition a loop, because you’ll keep going around and around the same steps until some condition (your friend guessing the right number) lets you stop. Here’s one of many possible ways to express the guessing game in pseudocode:
 
-<code> 1   secretly pick your favorite number from 1 to 50
+<div style="background-color:grey;color:black;padding:20px;"> 1   secretly pick your favorite number from 1 to 50
  2   have your friend guess your favorite number
  3   if your friend guesses a lower number
  4      tell your friend to guess a higher number
@@ -101,7 +101,7 @@ We call such a repetition a loop, because you’ll keep going around and around 
  7      tell your friend to guess a lower number
  8      go back to line 2
  9   else
-10      tell your friend to stop guessing</code>
+10      tell your friend to stop guessing</div>
 
 Notice here that until your friend guesses the correct number, they will go back to line 2 of the algorithm, which prompts them to make another guess. Only when they guess correctly can they proceed to line 10 and break out of the loop.
 
@@ -137,4 +137,4 @@ See what we did there?
 
 This process may actually be more challenging than it first appears, and that’s okay. We promise though, once you start writing source code you’ll have access to a new (but limited!) toolkit of keywords and commands that will make precise algorithm-writing substantially easier!
 
-##Submit your algorithms on MyMCPS
+## Submit your algorithms on MyMCPS
