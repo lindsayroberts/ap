@@ -61,7 +61,7 @@ Pull up the definition of the word "computer" a few places online (or in a handy
 For purposes of this course, we define a computer as a device that accepts input and processes it in some way to produce an output automatically. Based on that definition, you might see how all four of the devices shown above may be considered computers. You also still may be scratching your head and thinking "Well, wait a minute…​". If so, good! You’re already beginning the critical-thinking process.
 
 ## Writing? I thought I was here to code!
-Rest assured, there’ll be plenty of time and plenty of opportunity to dive into programming this school year. In fact, the vast majority of the problems you’re assigned in this course will require you to program in one or more of the programming languages we’ll learn about, such as Scratch, Python, or JavaScript. But occasionally, and a bit more frequently at the very beginning of the course, you’ll also be asked to complete some "writing problems" like this. Why? There are two important reasons.
+Rest assured, there’ll be plenty of time and plenty of opportunity to dive into programming this school year. In fact, the vast majority of the problems you’re assigned in this course will require you to program in one or more of the programming languages we’ll learn about, such as Scratch, Python, or Java. But occasionally, and a bit more frequently at the very beginning of the course, you’ll also be asked to complete some "writing problems" like this. Why? There are two important reasons.
 
 First and foremost, writing is an essential part of your assessment by the College Board for Advanced Placement credit in the course. The assessment consists of three parts:
 
