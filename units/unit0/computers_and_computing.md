@@ -12,6 +12,9 @@ Computers are everywhere, but it's not just desktops and laptops anymore. Now we
   - Matthias Wandel on [Marble Adding Machine](https://www.youtube.com/embed/GcDshWmhF4A)
   - Canada Science and Technology Museum on [Sundials](https://www.youtube.com/embed/tI0GqYJha1Q)
 
+- ### What makes a computer, a computer?
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mCq8-xTH7jA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - ### Notes
   - [Computers and Computing]({{"/assets/pdfs/unit0/computers_and_computing.pdf" | relative_url }})
 
