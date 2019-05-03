@@ -23,12 +23,12 @@ Directions: Create flash cards for these vocabulary words to study before the te
 #### Study Task #2 Code.org’s Internet Videos - [link](https://code.org/educate/resources/videos)
 Description: Six video lessons about the Internet.  We watched these during class this year.
 Directions:  Rewatch the six internet videos listed below.  For each video, summarize the main points. 
-THE INTERNET: Wires, Cables, & Wifi \[summarize main points\]
-THE INTERNET: IP Addresses and DNS  \[summarize main points\]
-THE INTERNET: Packets, Routing and Reliability  \[summarize main points\]
-THE INTERNET: HTTP and HTML  \[summarize main points\]
-THE INTERNET: Encryption & Public Keys  \[summarize main points\]
-THE INTERNET: Cybersecurity & Crime  \[summarize main points\]
+\THE INTERNET: Wires, Cables, & Wifi \[summarize main points\]
+\THE INTERNET: IP Addresses and DNS  \[summarize main points\]
+\THE INTERNET: Packets, Routing and Reliability  \[summarize main points\]
+\THE INTERNET: HTTP and HTML  \[summarize main points\]
+\THE INTERNET: Encryption & Public Keys  \[summarize main points\]
+\THE INTERNET: Cybersecurity & Crime  \[summarize main points\]
 
 #### Study Task #3 CodeHS’s Practice Questions - [link](http://codehs.com/apcsp_review)
 Description: A bank of 74 AP CSP practice problems.
