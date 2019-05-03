@@ -23,30 +23,40 @@ Directions: Create flash cards for these vocabulary words to study before the te
 #### Study Task #2 Code.org’s Internet Videos - [link](https://code.org/educate/resources/videos)
 Description: Six video lessons about the Internet.  We watched these during class this year.
 Directions:  Rewatch the six internet videos listed below.  For each video, summarize the main points. 
-\THE INTERNET: Wires, Cables, & Wifi \[summarize main points\]
-\THE INTERNET: IP Addresses and DNS  \[summarize main points\]
-\THE INTERNET: Packets, Routing and Reliability  \[summarize main points\]
-\THE INTERNET: HTTP and HTML  \[summarize main points\]
-\THE INTERNET: Encryption & Public Keys  \[summarize main points\]
-\THE INTERNET: Cybersecurity & Crime  \[summarize main points\]
+1. THE INTERNET: Wires, Cables, & Wifi \[summarize main points\]
+2. THE INTERNET: IP Addresses and DNS  \[summarize main points\]
+3. THE INTERNET: Packets, Routing and Reliability  \[summarize main points\]
+4. THE INTERNET: HTTP and HTML  \[summarize main points\]
+5. THE INTERNET: Encryption & Public Keys  \[summarize main points\]
+6. THE INTERNET: Cybersecurity & Crime  \[summarize main points\]
 
 #### Study Task #3 CodeHS’s Practice Questions - [link](http://codehs.com/apcsp_review)
 Description: A bank of 74 AP CSP practice problems.
 Directions:  Complete the 74 question practice exam. You will need to sign up for a FREE account here and then scroll all the way to the bottom of the playlist from the first link above to complete the “Practice AP Exam”. Write about five times when you got a question wrong, and what you needed to know to get the question correct.  
 Question I Got Wrong: \[copy\]
+
 What I Needed to Know: \[respond\]
 
-Question I Got Wrong: \[copy\]
-What I Needed to Know: \[respond\]
 
 Question I Got Wrong: \[copy\]
+
 What I Needed to Know: \[respond\]
 
-Question I Got Wrong: \[copy\]
-What I Needed to Know: \[respond\]
 
 Question I Got Wrong: \[copy\]
+
 What I Needed to Know: \[respond\]
+
+
+Question I Got Wrong: \[copy\]
+
+What I Needed to Know: \[respond\]
+
+
+Question I Got Wrong: \[copy\]
+
+What I Needed to Know: \[respond\]
+
 
 
 #### Study Task #4 College Board’s 22 Public Sample Questions - [link](https://drive.google.com/file/d/1kiqEhMfDjX_mExjRGSLWS9ijcOJGHeYo/view?usp=sharing)
@@ -55,12 +65,14 @@ Directions:  Attempt to answer all 22 questions, answers can be found on the las
 
 First Question:
 Original Question \[#\]
+
 Original Question \[paste\]
 
 My Newly Created Question Modeled on the Problem Above \[paste\]
 
 Second Question:
 Original Question \[#\]
+
 Original Question \[paste\]
 
 My Newly Created Question Modeled on the Problem Above \[paste\]
