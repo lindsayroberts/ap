@@ -7,3 +7,5 @@ remote_theme: cs50/jekyll-theme-cs50
 #theme: jekyll-theme-cayman
 
 title: AP CSP
+
+theme: jekyll-theme-architect
