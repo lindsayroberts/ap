@@ -29,7 +29,7 @@ Let’s start off by watching David’s video (from Ted-ED) on Algorithms.
 
 As we see from that video, algorithms are sets of instructions for completing a task step-by-step. Sometimes these algorithms can be quite simple. One way to express an algorithm for deciding how to dress based on the weather might be to say something like this.
 
-```Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.```
+> Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.
 
 Sometimes they can be a bit more complex. Dropbox, if unfamiliar, is a service that provides storage of files "in the cloud"—on physical machines that are not your own but rather are typically owned by a hosting company—and delivers those files to you via the Internet. It also can synchronize your files between all machines on which you’ve installed the Dropbox client and has a web interface for downloading your synchronized files, which is handier than e-mailing yourself a copy of the file you worked on at school so you can continue working on that same file at home.
 
@@ -95,16 +95,16 @@ have your friend stop guessing.
 We call such a repetition a loop, because you’ll keep going around and around the same steps until some condition (your friend guessing the right number) lets you stop. Here’s one of many possible ways to express the guessing game in pseudocode:
 
 
-> 1 secretly pick your favorite number from 1 to 50
-> 2 have your friend guess your favorite number 
-> 3 if your friend guesses a lower number
-> 4    tell your friend to guess a higher number
-> 5    go back to line 2
-> 6 else if your friend guesses a higher number
-> 7    tell your friend to guess a lower number
-> 8    go back to line 2
-> 9 else
-> 10   tell your friend to stop guessing
+> 1. secretly pick your favorite number from 1 to 50
+> 2. have your friend guess your favorite number 
+> 3. if your friend guesses a lower number
+> 4.  \t  tell your friend to guess a higher number
+> 5.\t    go back to line 2
+> 6. else if your friend guesses a higher number
+> 7.    \t tell your friend to guess a lower number
+> 8.   \t go back to line 2
+> 9. else
+> 10.\t   tell your friend to stop guessing
 
 
 Notice here that until your friend guesses the correct number, they will go back to line 2 of the algorithm, which prompts them to make another guess. Only when they guess correctly can they proceed to line 10 and break out of the loop.
