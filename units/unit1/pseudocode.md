@@ -6,9 +6,11 @@ __Important Note__: AP Computer Science Principles is a deliberately language-ag
 
 - ### Lecture
   - [Watch on the CS50 Video Player](https://video.cs50.net/2017/fall/lectures/0?t=27m11s)
-<!--  - [Watch on Youtube](https://www.youtube.com/embed/y62zj9ozPOM?start=1631&end=1864)
+<!--  
+  - [Watch on Youtube](https://www.youtube.com/embed/y62zj9ozPOM?start=1631&end=1864)
   - [Download Lecture](http://cdn.cs50.net/2017/fall/lectures/0/lecture0-720p.mp4?download)
-  - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/0/lecture0.html#algorithms) -->
+  - [Lecture Notes](https://docs.cs50.net/2017/fall/notes/0/lecture0.html#algorithms) 
+-->
 
 - ### Notes
   - [Pseudocode]({{"/assets/pdfs/unit1/pseudocode.pdf" | relative_url }})
