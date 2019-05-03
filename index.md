@@ -1,5 +1,5 @@
 ---
-title: false
+title: Home
 ---
 
 # Welcome to AP CS Principles!
