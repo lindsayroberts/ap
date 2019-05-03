@@ -29,7 +29,7 @@ Let’s start off by watching David’s video (from Ted-ED) on Algorithms.
 
 As we see from that video, algorithms are sets of instructions for completing a task step-by-step. Sometimes these algorithms can be quite simple. One way to express an algorithm for deciding how to dress based on the weather might be to say something like this.
 
-Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.
+*Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.*
 
 Sometimes they can be a bit more complex. Dropbox, if unfamiliar, is a service that provides storage of files "in the cloud"—on physical machines that are not your own but rather are typically owned by a hosting company—and delivers those files to you via the Internet. It also can synchronize your files between all machines on which you’ve installed the Dropbox client and has a web interface for downloading your synchronized files, which is handier than e-mailing yourself a copy of the file you worked on at school so you can continue working on that same file at home.
 
@@ -52,13 +52,13 @@ Assume you’re racing Sonic around Green Hill Zone and you see a couple of ring
 
 Every step of that process involved multiple algorithms. Described informally, those algorithms (greatly simplified) might read as something like this:
 
-If the jump button is pressed and if Sonic is standing on the ground, begin moving him upward
+*If the jump button is pressed and if Sonic is standing on the ground, begin moving him upward
 until he reaches the top of his arc. After he reaches the top of his arc, begin moving him downward
-by simulating gravity's pull until he is standing on the ground again.
+by simulating gravity's pull until he is standing on the ground again.*
 
 And for the rings:
 
-If Sonic is touching a ring, remove the ring from the screen and increase Sonic's ring counter by one.
+*If Sonic is touching a ring, remove the ring from the screen and increase Sonic's ring counter by one.*
 
 Let’s focus just on the jumping algorithm for now, because the "input" to that algorithm is a lot clearer. The device that is executing this algorithm is the Sega Genesis console (or, more likely nowadays, an emulator for the same) running the Sonic the Hedgehog software. What is the data or input? That would be you, holding your controller, pressing down on the button that makes Sonic jump. (In fact, as you may recall, it’s actually an electrical pulse that occurred when you pressed that button that likely "jump-started" this algorithm.)
 
@@ -72,18 +72,18 @@ Sometimes it is easiest to express an algorithm using common language. That’s 
 
 Instead of this:
 
-Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.
+*Look out the window. If it is raining outside, put on your rain boots and raincoat. Then go outside.*
 
 you might see a computer scientist instead use what’s called pseudocode—short expressions in common language organized in a way that resembles what source code looks like—to write their algorithms. We’ll talk more about pseudocode soon, but getting in the habit of writing it before you dive into actual coding in Scratch, C, PHP, or JavaScript is a great idea, much like writing the first draft of an essay.
 
 Here’s one possible way to translate that algorithm into pseudocode:
 
 
- 1. look out the window
- 2. if it is raining outside
- 3. put on your rain boots
- 4. put on your raincoat
- 5. go outside
+*1. look out the window
+*2. if it is raining outside
+*3. put on your rain boots
+*4. put on your raincoat
+*5. go outside
 
 
 We’ve numbered the lines for a reason you’ll see momentarily. But notice how regardless of whether it’s raining the algorithm instructs you to go outside. It just has a special extra set of things you do before stepping outside if it happens to be raining. We call something like "if it is raining outside" a condition. Some algorithms also have steps that get repeated many times over, like this one:
@@ -95,16 +95,16 @@ have your friend stop guessing.
 We call such a repetition a loop, because you’ll keep going around and around the same steps until some condition (your friend guessing the right number) lets you stop. Here’s one of many possible ways to express the guessing game in pseudocode:
 
 
-/1   secretly pick your favorite number from 1 to 50
-/2   have your friend guess your favorite number 
-/3   if your friend guesses a lower number
-/4      tell your friend to guess a higher number
-/5      go back to line 2
-/6   else if your friend guesses a higher number
-/7      tell your friend to guess a lower number
-/8      go back to line 2
-/9   else
-/10     tell your friend to stop guessing
+*1. secretly pick your favorite number from 1 to 50
+*2. have your friend guess your favorite number 
+*3. if your friend guesses a lower number
+*4.    tell your friend to guess a higher number
+*5.    go back to line 2
+*6. else if your friend guesses a higher number
+*7.    tell your friend to guess a lower number
+*8.    go back to line 2
+*9. else
+*10.   tell your friend to stop guessing
 
 
 Notice here that until your friend guesses the correct number, they will go back to line 2 of the algorithm, which prompts them to make another guess. Only when they guess correctly can they proceed to line 10 and break out of the loop.
@@ -112,8 +112,8 @@ Notice here that until your friend guesses the correct number, they will go back
 ## Step 3: Write This.
 Okay, now you’ve learned a lot about algorithms and pseudocode. Perhaps we should try writing a few—​three, to be precise. Open a text editor and create a file called ‘algorithms’ (be sure that the file extension is either .doc, .docx, .pdf, or .txt). First, write up algorithms (both in sentence form and in pseudocode) for how to:
 
-  -brush one’s teeth
-  -eat an orange
+*- brush one’s teeth
+*- eat an orange
 
 Next, think of something that you do every day or nearly every day. Write an algorithm in sentence form and in pseudocode for how to do the thing you’re thinking of.
 
