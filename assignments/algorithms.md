@@ -79,11 +79,11 @@ you might see a computer scientist instead use what’s called pseudocode—shor
 Here’s one possible way to translate that algorithm into pseudocode:
 
 
- 1   look out the window <br /> 
- 2   if it is raining outside <br /> 
- 3   put on your rain boots <br /> 
- 4   put on your raincoat <br /> 
- 5   go outside
+ 1. look out the window
+ 2. if it is raining outside
+ 3. put on your rain boots
+ 4. put on your raincoat
+ 5. go outside
 
 
 We’ve numbered the lines for a reason you’ll see momentarily. But notice how regardless of whether it’s raining the algorithm instructs you to go outside. It just has a special extra set of things you do before stepping outside if it happens to be raining. We call something like "if it is raining outside" a condition. Some algorithms also have steps that get repeated many times over, like this one:
