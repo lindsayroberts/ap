@@ -98,7 +98,7 @@ We call such a repetition a loop, because you’ll keep going around and around 
 /1   secretly pick your favorite number from 1 to 50
 /2   have your friend guess your favorite number 
 /3   if your friend guesses a lower number
-/4      tell your friend to guess a higher number 
+/4      tell your friend to guess a higher number
 /5      go back to line 2
 /6   else if your friend guesses a higher number
 /7      tell your friend to guess a lower number
