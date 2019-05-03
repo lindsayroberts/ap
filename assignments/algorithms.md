@@ -98,13 +98,13 @@ We call such a repetition a loop, because you’ll keep going around and around 
 > 1. secretly pick your favorite number from 1 to 50
 > 2. have your friend guess your favorite number 
 > 3. if your friend guesses a lower number
-> 4.  \t  tell your friend to guess a higher number
-> 5.\t    go back to line 2
+  > 4. tell your friend to guess a higher number
+  > 5. go back to line 2
 > 6. else if your friend guesses a higher number
-> 7.    \t tell your friend to guess a lower number
-> 8.   \t go back to line 2
+  > 7. tell your friend to guess a lower number
+  > 8. go back to line 2
 > 9. else
-> 10.\t   tell your friend to stop guessing
+  > 10.   tell your friend to stop guessing
 
 
 Notice here that until your friend guesses the correct number, they will go back to line 2 of the algorithm, which prompts them to make another guess. Only when they guess correctly can they proceed to line 10 and break out of the loop.
