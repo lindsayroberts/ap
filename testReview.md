@@ -33,37 +33,37 @@ THE INTERNET: Cybersecurity & Crime  \[summarize main points]
 #### Study Task #3 CodeHS’s Practice Questions - [link](http://codehs.com/apcsp_review)
 Description: A bank of 74 AP CSP practice problems.
 Directions:  Complete the 74 question practice exam. You will need to sign up for a FREE account here and then scroll all the way to the bottom of the playlist from the first link above to complete the “Practice AP Exam”. Write about five times when you got a question wrong, and what you needed to know to get the question correct.  
-Question I Got Wrong: \[copy]
-What I Needed to Know: \[respond]
+Question I Got Wrong: \[copy\]
+What I Needed to Know: \[respond\]
 
-Question I Got Wrong: \[copy]
-What I Needed to Know: \[respond]
+Question I Got Wrong: \[copy\]
+What I Needed to Know: \[respond\]
 
-Question I Got Wrong: \[copy]
-What I Needed to Know: \[respond]
+Question I Got Wrong: \[copy\]
+What I Needed to Know: \[respond\]
 
-Question I Got Wrong: \[copy]
-What I Needed to Know: \[respond]
+Question I Got Wrong: \[copy\]
+What I Needed to Know: \[respond\]
 
-Question I Got Wrong: \[copy]
-What I Needed to Know: \[respond]
+Question I Got Wrong: \[copy\]
+What I Needed to Know: \[respond\]
 
 
 #### Study Task #4 College Board’s 22 Public Sample Questions - [link](https://drive.google.com/file/d/1kiqEhMfDjX_mExjRGSLWS9ijcOJGHeYo/view?usp=sharing)
 Description: The college board posted 22 sample questions in their course description guide for AP CSP.
 Directions:  Attempt to answer all 22 questions, answers can be found on the last page.  Create two new questions modeled on one of the 22 questions. 
 
-	First Question:
-Original Question \[#]
-Original Question \[paste]
+First Question:
+Original Question \[#]\
+Original Question \[paste]\
 
-My Newly Created Question Modeled on the Problem Above \[paste]
+My Newly Created Question Modeled on the Problem Above \[paste]\
 
 Second Question:
-Original Question \[#]
-Original Question \[paste]
+Original Question \[#]\
+Original Question \[paste]\
 
-My Newly Created Question Modeled on the Problem Above \[paste]
+My Newly Created Question Modeled on the Problem Above \[paste]\
 
 
 
