@@ -10,10 +10,7 @@
 
 ***
 -->
-* [Sample Class]({{ "/periods/sampleClass" | relative_url }})
-* [Period 4]({{ "/periods/4" | relative_url }})
-* [Period 7]({{ "/periods/7" | relative_url }})
-* [Period 8]({{ "/periods/8" | relative_url }})
+* [Class Notes]({{ "/periods/sampleClass" | relative_url }})
 
 ***
 * [AP Test Review Resources]({{ "/testReview" | relative_url}})
