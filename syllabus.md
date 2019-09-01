@@ -1,143 +1,204 @@
 # Syllabus
 
-###### [Download the full syllabus as a PDF with mappings to the AP CSP Framework's Learning Objectives](https://dl.dropboxusercontent.com/s/f2srub4nxf2dx6c/Syllabus%202018-19.pdf?dl=0)
+#AP Computer Science Principles
 
-## Description
+#2019-2020 Syllabus
 
-CS50 is Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming for students with a diversity of technological background and experience. CS50 for AP Computer Science Principles is an adaptation of CS50 specifically tailored to align with the AP Computer Science Principles curriculum framework. The course’s assignments, materials, and resources are all identical to the version of the course taught at the college-level, albeit adapted to suit a secondary school audience.
+ 
 
-Among this course’s objectives is to supply students with a comprehensive introduction to the fundamentals of the discipline of computer science. We will do so using programming in several different languages as a vehicle to introduce these fundamentals, including such topics as algorithms, abstraction, data, global impact, and internet technologies. Though the course is programming-heavy, it should be stressed that this is not a “programming course”; rather, this course should be considered one of problem-solving, creativity, and exploration. By year’s end, students will have a richer understanding of the key principles of the discipline of computer science. Students will be able to speak intelligently about how computers work and how they enable us to become better problem-solvers, and will hopefully be able to communicate that knowledge to others.
+##Contact Information
 
-Whether students elect to take no other computer science courses in their lifetime or consider this class the first step in a longer course of study, it is our sincere hope that they feel more comfortable with—and indeed sometimes skeptical of—the technologies that surround us each day.
+##Instructor (Email):
 
-## Expectations
+Lindsay Roberts  (Lindsay_Roberts@mcpsmd.org)
 
-Students are expected to submit all problems! If students would like to receive AP credit they will need to take the [AP CSP Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam) and complete the [Create and Explore Tasks](https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf).
+Barbara Barry (Barbara_s_Barry@mcpsmd.org)
 
-## Prerequisites
+Kevin O’Neill  (Kevin_O'Neill@mcpsmd.org)
 
-The only background required for CS50 for AP Computer Science Principles is completion of Algebra I or its equivalent.
+Chandra Sekaran (Chandra_Sekaran@mcpsmd.org)
 
-## Books
+Avery Travis  (Avery_Travis@mcpsmd.org)
+ 
 
-No books are required for this course. However, students may want to supplement their preparation for or review of some lectures with self-assigned readings relevant to those lectures' content from either of the books below. The first is intended for those inexperienced in (or less comfortable with the idea of) programming. The second is intended for those experienced in (or more comfortable with the idea of) programming.
+Office Phone: 240-740-1527
 
-### For Those Less Comfortable
+ 
 
-* _C Programming Absolute Beginner's Guide_, Third Edition  
-Greg Perry, Dean Miller  
-Pearson Education, 2014  
-ISBN 0-789-75198-4
+##Course Description
 
-### For Those More Comfortable
+AP Computer Science Principles offers a multidisciplinary approach to teaching the underlying principles of computation. The course will introduce students to the creative aspects of programming, abstractions, algorithms, large data sets, the Internet, cybersecurity concerns, and computing impacts. AP Computer Science Principles will give students the opportunity to use technology to address real-world problems and build relevant solutions. This course will be taught in Python to prepare students for Programming I, AP Programming II, and Advanced Programming III. Together, these aspects of the course make up a rigorous and rich curriculum that aims to broaden participation in computer science. This course satisfies the technology credit for high school graduation. Students will submit the majority of assignments through MyMCPS Classroom.
 
-* _Programming in C_, Fourth Edition  
-Stephen G. Kochan  
-Pearson Education, 2015  
-ISBN 0-321-77641-0
-<br>
+ 
 
-The book below is recommended for those interested in understanding how their own computers work for personal edification.
+##Course Objectives
 
-* _How Computers Work_, Ninth Edition  
-Ron White  
-Que Publishing, 2008  
-ISBN 0-7897-3613-6
-<br>
+The main course objectives are summarized below in the six computational thinking practices and seven big ideas for the course.
 
-This last book below is recommended for aspiring hackers, those interested in programming techniques and low-level optimization of code for applications beyond the scope of this course.
+Computational Thinking Practices:  The six computational thinking practices represent important aspects of the work that computer scientists engage in, and are denoted here by P1 through P6:
 
-* _Hacker's Delight_, Second Edition  
-Henry S. Warren Jr.  
-Pearson Education, 2013  
-ISBN 0-321-84268-5  
+P1: Connecting Computing
+P2: Creating Computational Artifacts
+P3: Abstracting
+P4: Analyzing Problems and Artifacts
+P5: Communicating
+P6: Collaborating
+Big Ideas:  The seven big ideas of the course encompass foundational ideas of the field of computer science, and are denoted here by B1 through B7:
 
-## Overview
+B1: Creativity
+B2: Abstraction
+B3: Data and Information
+B4: Algorithms
+B5: Programming
+B6: The Internet
+B7: Global Impact
+ 
 
-Consistent with the AP Computer Science Principles curriculum framework, the course’s material is organized around seven so-called “big ideas” as well as six computational thinking practices. The seven big ideas are:
-1.	Creativity
-2.	Abstraction
-3.	Data and Information
-4.	Algorithms
-5.	Programming
-6.	The Internet
-7.	Global Impact
-<br>
+##The AP Exam- May 8, 2020
 
-And the six computational thinking practices are:
+The AP CS Principles assessment has two parts. The first part, during the school year, is a performance assessment consisting of two performances tasks. The second is a summative 74 multiple-choice question exam. The results of each will be used to calculate a final AP score using the 1-5 scale.
 
-* P1. Connecting Computing
-* P2. Creating Computational Artifacts
-* P3. Abstracting
-* P4. Analyzing Problems and Artifacts
-* P5. Communicating (both orally and in writing)
-* P6. Collaborating
+The two performance tasks as defined by College Board are:
 
+1. Explore - Implications of Computing Inventions
+Students explore a computing innovation of their choice. Students will evaluate its impacts on social, economic, and cultural areas of our lives.
+Students will make a computational artifact in the form of a visualization, a graphic, a video, a program, or an audio recording to complete the task. There will also be a series of prompts the students must answer.
+2. Create - Applications from Ideas
+Students develop a computer program that solves a problem of interest to them. Students are encouraged to work with a partner but it is not required. There will also be a series of prompts the students must answer.
+       
 
-### Unit 0
+Our Vision Statement: to demonstrate creativity, critical thinking, problem solving, and decision making while using technology effectively and productively to provide my students with the skills they need for success in our changing society, in a safe and respectful environment.
 
-Computers and Computing. How Computers Work. Binary and ASCII. Logic and Processors. Memory. Algorithms.
+ 
 
-### Unit 1
+##Grading
 
-Pseudocode. Scratch. Syntax. Variables. Data Types. Operators. Boolean Expressions and Conditionals. Loops.
+This course is considered Advanced Level by MCPS, and, as such, will provide a weighted grade. Grades will be calculated according to MCPS and Wootton High School Career and Technology grading policies. This class will operate based on an “all points” format with no weighted categories.
 
-### Unit 2
+ 
 
-Compiling. Functions. Arrays and Strings. Command-Line Interaction. Exit Codes. Libraries. Typecasting. Bugs and Debugging.
+###50% Rule
 
-### Unit 3
+To be eligible for the 50% rule, students must attempt to meet the basic requirements for task/assessment.  For this course, a 25% is viewed as attempting to meet the basic requirements.
 
-Linear Search. Bubble Sort. Selection Sort. Insertion Sort. Binary Search. Computational Complexity. Unsolvable Problems. Models and Simulation.
+ 
 
-### Unit 4
+###Scores on MyMCPS
 
-Principles of Good Design. Ncurses. Structures and Encapsulation. Recursion. Merge Sort. Hexadecimal. File I/O. Images. Version Control and Collaboration.
+It is your responsibility to monitor the scores you receive through MyMCPS. If you perceive that an error has been made, you must bring it to my attention within one week of the score's entry in order for me to examine the issue. After one week, there will be no re-examination of the score. This one-week period does not extend beyond the end of any marking period, however.
 
-### Unit 5
+ 
 
-Internet Basics. IP Addresses. DNS and DHCP. Routers. TCP and IP. HTTP. Trust Models. Cybersecurity. HTML. CSS.
+##Acceptable and Unacceptable Collaboration
 
-### Unit 6
+The following rules are set forth by the University of Maryland Computer Science Department, and do a good job of describing what is considered cheating in computer programming.
 
-Python. Python for Web Programming. SQL. MVC. JavaScript. Ajax. Artificial Intelligence and Machine Learning. Virtual and Augmented Reality.
+ 
 
-## Academic Honesty
+Excerpt from: http://www.cs.cmu.edu/~jxc/policy.html
 
-This course's philosophy on academic honesty is best stated as "be reasonable." The course recognizes that interactions with classmates and others can facilitate mastery of the course's material. However, there remains a line between enlisting the help of another and submitting the work of another. This policy characterizes both sides of that line.
+The decision as to whether a student has cheated depends on the intent of an assignment, the ground rules specified by the instructor, and the behavior of the student. The following three guidelines help an instructor decide if cheating has occurred:
 
-The essence of all work that students submit to this course must be their own. Collaboration on problems is not permitted except to the extent that students may ask classmates and others for help so long as that help does not reduce to another doing thier work for them. Generally speaking, when asking for help, students may show their code to others, but they may not view their peers', so long as they respect this policy's other constraints. Collaboration on the AP Computer Science Principle's through-course assessments, namely the create and explore task, is permitted to the extent prescribed by their description provided by the College Board.
+Program plagiarism will be suspected if an assignment that calls for independent development and implementation of a program results in two or more solutions so similar that one solution can be converted to the other(s) by a series of simple commands.
+Cheating will be suspected if a student who completed an assignment cannot explain both the intricacies of the solution and the techniques used to generate that solution.
+If you give an assignment to another student OR receive an assignment from another student and hand it in as your own work.
+ 
 
-Below are rules of thumb that (inexhaustively) characterize acts that the course considers reasonable and not reasonable. Acts considered not reasonable by the course are handled harshly.
+It is unreasonable to expect a complete definition that would cover all cases because each situation is important enough to merit careful, individual scrutiny; however, it is helpful to have guidelines and precedents. As a general rule, if you do not understand what you are handing in, you are probably cheating. If you have given somebody the answer, you are probably cheating. In order to help you draw the line, here are some examples of clear cases of cheating:
 
-### Reasonable
+###Examples of Cheating:
 
-* Communicating with classmates about problems in English (or some other spoken language).
-* Discussing the course's material with others in order to understand it better.
-* Helping a classmate identify a bug in his or her code in class, elsewhere, or even online, as by viewing, compiling, or running his or her code, even on your own computer.
-* Incorporating snippets of code that you find online or elsewhere into your own code, provided that those snippets are not themselves solutions to assigned problems and that you cite the snippets' origins.
-* Reviewing past semesters' quizzes and solutions thereto.
-* Sending or showing code that you've written to someone, possibly a classmate, so that he or she might help you identify and fix a bug.
-* Sharing snippets of your own code online so that others might help you identify and fix a bug.
-* Turning to the web or elsewhere for instruction beyond the course's own, for references, and for solutions to technical difficulties, but not for outright solutions to problems or your own through-course assessments.
-* Whiteboarding solutions to problems with others using diagrams or pseudocode but not actual code.
-* Working with (and even paying) a tutor to help you with the course, provided the tutor does not do your work for you.
+Turning in someone else's work, in whole or in part, as your own (with or without his/her knowledge).
+Turning in a completely duplicated assignment.
+Allowing another student to turn in your work as his/her own.
+Allowing someone else to examine or copy your code or written assignment, either in draft or final form.
+Reviewing files from another student or source, including retyping their files.
+Several people writing one assignment and turning in multiple copies, all represented (implicitly or explicitly) as individual work.
+Stealing an examination or solution from the instructor or course staff.
+Copying from another student during an exam, quiz, or midterm. This includes receiving exam-related information from a student who has already taken the exam, or providing exam-related information to a student who has not yet taken the exam.
+On the other hand, we encourage you to discuss the exercises and homework with other students. But the discussion is limited to clarifying the assignments and sketching a general approaches to a solution. You should never look at another person's program to help you write yours, nor allow another student to look at your program. It is important that you do your own work so as to maximize your learning. Here are some examples of acceptable collaboration:
 
-### Not Reasonable
+###Examples of Not Cheating:
 
-* Accessing a solution in CS50 Vault to some problem prior to (re-)submitting your own.
-* Asking a classmate to see his or her solution to a problem before (re-)submitting your own.
-* Decompiling, deobfuscating, or disassembling the staff's solutions to problems.
-* Failing to cite (as with comments) the origins of code or techniques that you discover outside of the course's own lessons and integrate into your own work, even while respecting this policy's other constraints.
-* Giving or showing to a classmate a solution to a problem when it is he or she, and not you, who is struggling to solve it.
-* Looking at another individual's work during a test or quiz.
-* Paying or offering to pay an individual for work that you may submit as (part of) your own.
-* Providing or making available solutions to problems to individuals who might take this course in the future.
-* Searching for, soliciting, or viewing a test or quiz's questions or answers prior to taking a test or quiz.
-* Searching for or soliciting outright solutions to problems online or elsewhere.
-* Splitting a problem's workload with another individual and combining your work, when prohibitted.
-* Submitting (after possibly modifying) the work of another individual beyond allowed snippets.
-* Submitting the same or similar work to this course that you have submitted or will submit to another.
-* Submitting work to this course that you intend to use outside of the course (e.g., for a job) without prior approval.
-* Using resources during a test or quiz beyond those explicitly allowed in the test or quiz's instructions.
-* Viewing another's solution to a problem and basing your own solution on it.
+Turning in work done alone or with the help of the course's staff.
+Getting or giving help about using the computers.
+Getting or giving help about solving minor syntax errors.
+High level discussions of course material for better understanding.
+Discussing the code that we give out on the assignment.
+Discussing the assignments to better understand them.
+Providing assistance with the language, class library, and tools.
+We will not condone cheating.
+
+ 
+
+##Due Dates/ Deadlines
+
+The due date for projects is the last in-class day available for students to work. The due date is at the end of the actual CLASS PERIOD in which the student is enrolled.
+Students will not be given class time to work on projects after the due date and are expected to come in outside of class to work if they need more time to submit prior to the deadline.   
+Submitting a project after the due date but before the deadline will result in a 10% deduction.
+Students who have spent any time working on coursework for a different class or otherwise using the class time provided on non-class tasks forfeit the right to turn in an assignment after the due date and forfeit the opportunity to work in any of our computer labs during non-class time.
+Any project not submitted by the deadline will result in a score of zero unless there are extenuating circumstances, such as extended excused absences. 
+###Homework
+The due date for homework is the start of the class period during which the assignment is due.
+The deadline for homework is the same as the due date.  No late homework will be accepted for credit.  Any homework submitted after the due date/deadline will result in a score of zero.
+ 
+
+##Re-teaching / Reassessment
+
+Re-teaching occurs when the teacher or student determines that students are not meeting learning goals.  Reassessment opportunities are identified by the teacher before the original task/assessment and occur within an instructional unit.  Only one reassessment opportunity is offered per task/assessment.  When tasks/assignments are reassessed, they may be reassessed partially, entirely, or in a different format, as determined by the teacher.
+
+The following assessments/tasks that indicate a final measure of learning may not be reassessed:
+
+End of course semester exams
+Assessments that end an instructional unit or period of study
+Final research papers, reports, or essays
+Culminating projects or performances
+ 
+
+When reassessment is offered, all students may be reassessed, regardless of grade on original task/assessment if they meet the following requirements:  complete the original task or assessment, completed required assignments, and complete re-teaching/relearning activities as determined by the teacher.
+
+ 
+
+##Other Expectations
+
+Students are expected to spend class time focused on the materials for this class. This includes materials found online.
+This classroom is a place where all students should feel comfortable and secure. No hate speech of any kind will be tolerated.
+Students are expected to attend class in a timely manner. 
+ 
+
+##Absences
+
+Students who are absent (excused) on the day of a quiz or test are expected to email or speak with me on the day they are absent or the morning before school when they return.
+Students who are absent (excused) on a due date are expected to turn in an assignment the next day they are in school. If the student has missed several work days, s/he must email or speak with me on the day they are absent or the morning before school when they return to work out an amended due date.
+In the case of unexcused absences:
+Missed Quizzes and Tests may NOT be counted for credit - resulting in a score of 0.
+Assignments submitted after the official due date will be counted late.
+Students must notify their teacher three days prior to leaving on a field trip. 
+Students who have field trip related absences for multiple days will meet to discuss their assignments with their teacher ahead of time.
+ 
+
+##Availability
+
+I am available mornings by appointment made at least one day in advance (i.e. the day before) and the last 20 minutes of lunch in Room 15 each day. I am available during lunch in room 109b by appointment as well. Students MAY NOT eat in the lab during lunch. I am also happy to answer questions sent via email if you are working on something while not in the lab with me.
+
+ 
+
+#Computer Science Labs Rules and Regulations
+
+The computer lab is for Instructional use only!  You are responsible for your assigned computer station (hardware, software, and immediate vicinity) while you are in class.
+
+This means that any problem found on, near, or within your work area will be attributed to you.  To prevent being accused of something you did not do report any problems found at the start of class or as soon as discovered.
+You will be assigned a specific computer for your use only.
+Students will not eat or drink in the Computer Science classrooms.
+At the end of each period all networked computers must be logged-off so that the main sign in screen is visible.  This helps to protect the integrity of your work and is an essential part of working in the lab.
+Removal of software, hardware, or software documentation from the school is prohibited.
+Students are only to work in approved applications and/or print materials when permission to do so has been granted.
+Workstation areas must be kept clean and tidy at all times.  Leave your area litter free.
+The following are strictly prohibited:
+Tampering with Hardware/software
+Obscene or inappropriate messages, filenames, etc.
+Unauthorized saving of files to unauthorized network or hard drives
+Unauthorized downloading of material
+Internet use is a privilege, not a right.
+Adhere to all rules in the Computer Science section of the Agenda Book.
+##Note:  Failure to comply with any of the above rules and regulations may result in disciplinary action, including removal from the class on a temporary or permanent basis.
