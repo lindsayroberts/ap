@@ -25,6 +25,7 @@ In this section, you will not yet be implementing any specific type of algorithm
   - What are some problems we see in the real world that require algorithmic solutions?
   - Can every problem be solved by an algorithm?
   - Add up the numbers from 1 to 100 without using a calculator. How did you do it? How long did it take? Ask a friend to do the same. Did you arrive at the same result? Did it take the same amount of time? Did your processes differ? Are both algorithms correct?
-
+<!--
 - ### Problem
   - [Everyday Algorithms]({{"/assignments/algorithms" | relative_url}})
+-->
