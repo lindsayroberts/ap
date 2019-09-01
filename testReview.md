@@ -3,12 +3,12 @@
 
 * [Khan Academy](https://www.khanacademy.org/computing/ap-computer-science-principles/ap-csp-exam-preparation)
 
-## AP CSP - Review for The Exam........ Exam Date: May 10, 2019
+## AP CSP - Review for The Exam........ Exam Date: May 8, 2020
 
-### Assignment - To review for the AP CSP Exam on May 10th, I have created five different ways to study for the exam.  
+### Assignment - To review for the AP CSP Exam on May 8th, I have created five different ways to study for the exam.  
 
-* Study Task #1 is due by the start of class on TUESDAY, APRIL 23RD.
-* Study Tasks #2 through #5 are due on MyMCPS by 7:40am on WEDNESDAY, MAY 8TH.
+* Study Task #1 is due by the start of class on _______________.
+* Study Tasks #2 through #5 are due on MyMCPS by 7:40am on __________________.
 ** The deadlines for the Study Tasks are the same as the due dates. No late credit will be given.
 
 ### Directions:
