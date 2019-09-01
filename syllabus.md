@@ -11,9 +11,13 @@
 ### Instructor (Email):
 
 Lindsay Roberts  (Lindsay_Roberts@mcpsmd.org)
+
 Barbara Barry (Barbara_s_Barry@mcpsmd.org)
+
 Kevin O’Neill  (Kevin_O'Neill@mcpsmd.org)
+
 Chandra Sekaran (Chandra_Sekaran@mcpsmd.org)
+
 Avery Travis  (Avery_Travis@mcpsmd.org)
  
 Office Phone: 240-740-1527
@@ -31,19 +35,31 @@ The main course objectives are summarized below in the six computational thinkin
 Computational Thinking Practices:  The six computational thinking practices represent important aspects of the work that computer scientists engage in, and are denoted here by P1 through P6:
 
 P1: Connecting Computing
+
 P2: Creating Computational Artifacts
+
 P3: Abstracting
+
 P4: Analyzing Problems and Artifacts
+
 P5: Communicating
+
 P6: Collaborating
+
 Big Ideas:  The seven big ideas of the course encompass foundational ideas of the field of computer science, and are denoted here by B1 through B7:
 
 B1: Creativity
+
 B2: Abstraction
+
 B3: Data and Information
+
 B4: Algorithms
+
 B5: Programming
+
 B6: The Internet
+
 B7: Global Impact
  
 
@@ -169,17 +185,32 @@ I am available mornings by appointment made at least one day in advance (i.e. th
 The computer lab is for Instructional use only!  You are responsible for your assigned computer station (hardware, software, and immediate vicinity) while you are in class.
 
 This means that any problem found on, near, or within your work area will be attributed to you.  To prevent being accused of something you did not do report any problems found at the start of class or as soon as discovered.
+
 You will be assigned a specific computer for your use only.
+
 Students will not eat or drink in the Computer Science classrooms.
+
 At the end of each period all networked computers must be logged-off so that the main sign in screen is visible.  This helps to protect the integrity of your work and is an essential part of working in the lab.
+
 Removal of software, hardware, or software documentation from the school is prohibited.
+
 Students are only to work in approved applications and/or print materials when permission to do so has been granted.
+
 Workstation areas must be kept clean and tidy at all times.  Leave your area litter free.
+
+
 The following are strictly prohibited:
+
 Tampering with Hardware/software
+
 Obscene or inappropriate messages, filenames, etc.
+
 Unauthorized saving of files to unauthorized network or hard drives
+
 Unauthorized downloading of material
+
 Internet use is a privilege, not a right.
+
 Adhere to all rules in the Computer Science section of the Agenda Book.
+
 ## Note:  Failure to comply with any of the above rules and regulations may result in disciplinary action, including removal from the class on a temporary or permanent basis.
