@@ -7,9 +7,6 @@
 <!--
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
-
-***
-
 * [Class Notes]({{ "/periods/sampleClass" | relative_url }})
 -->
 ***
