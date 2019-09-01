@@ -9,9 +9,9 @@
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
 
 ***
--->
-* [Class Notes]({{ "/periods/sampleClass" | relative_url }})
 
+* [Class Notes]({{ "/periods/sampleClass" | relative_url }})
+-->
 ***
 * [AP Test Review Resources]({{ "/testReview" | relative_url}})
 
