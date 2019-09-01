@@ -8,7 +8,7 @@
 
 ## Contact Information
 
-## Instructor (Email):
+### Instructor (Email):
 
 Lindsay Roberts  (Lindsay_Roberts@mcpsmd.org)
 Barbara Barry (Barbara_s_Barry@mcpsmd.org)
