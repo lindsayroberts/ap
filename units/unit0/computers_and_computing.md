@@ -32,6 +32,3 @@ Computers are everywhere, but it's not just desktops and laptops anymore. Now we
   - When you play video games or even board games, are you computing? What sorts of things are you computing?
   - Think specifically about passive computing. What types of things might you do that don't involve you actively using a computer, but still might be considered computing.
   - Is it still considered computing if you get the wrong answer? What are the essential components of computing and computation?
-
-- ### Homework - submit on MyMCPS
-  - [Around the House]({{"/assignments/aroundTheHouse" | relative_url }})
